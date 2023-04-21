@@ -19,6 +19,7 @@ for (int i = 0; i < 5; i++)
    printf("Enter the Sec \n");
    scanf(" %c",&SD[i].Sec);
 
+    
 }
 
 for (int i = 0; i < 5; i++)
@@ -31,7 +32,6 @@ for (int i = 0; i < 5; i++)
    printf("section             :  %c\n",SD[i].Sec);
    
 }
-
 
     return 0;
 }
